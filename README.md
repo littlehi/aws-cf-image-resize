@@ -1,0 +1,1 @@
+# aws-cf-image-resize
